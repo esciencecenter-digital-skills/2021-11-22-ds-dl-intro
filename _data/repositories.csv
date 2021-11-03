@@ -2,5 +2,5 @@ curriculum,slug
 ds-parallel,escience-digital-skills/lesson-parallel-python
 ds-cr,escience-digital-skills/code-refinery
 ds-gpu,isazi/lesson-gpu-programming
-ds-dl-intro,carpentries-incubator/deep-learning-intro
+ds-dl-intro,esciencecenter-digital-skills/carpentries_metadata/main/ds-dl-intro
 ds-containers,escience-digital-skills/docker-introduction

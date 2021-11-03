@@ -74,7 +74,7 @@ It looks like you are setting up a website for a workshop but you haven't specif
 Read correct repository slug from _data/repositories.csv
 {% endcomment %}
 {% assign repository = site.data.repositories | where: "curriculum", info.curriculum %}
-{% capture lesson_meta %}https://raw.githubusercontent.com/{{repository[0].slug}}/gh-pages/_meta{% endcapture %}
+{% capture lesson_meta %}https://raw.githubusercontent.com/{{repository[0].slug}}{% endcapture %}
 
 
 {% comment %}
